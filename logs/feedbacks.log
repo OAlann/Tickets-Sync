@@ -1,0 +1,6 @@
+2025-10-30 14:54:14,249 [INFO] === Iniciando sincronização com API Acelerato ===
+2025-10-30 14:54:16,311 [INFO] Tabela verificada/criada com sucesso.
+2025-10-30 14:54:19,005 [INFO] Página 1 processada com 7459 tickets.
+2025-10-30 14:54:22,589 [INFO] Página 2 processada com 7459 tickets.
+2025-10-30 15:38:00,264 [INFO] 14918 avaliações inseridas/atualizadas no banco.
+2025-10-30 15:38:00,265 [INFO] === Sincronização concluída ===
